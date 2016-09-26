@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=VT? NewDesignator=VT3
+Added Component: Designator=R1(RESC1608X45(0603))
+Added Component: Designator=R2(RESC1608X45(0603))
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=VCC Pin=VT1-3
+Added Pin To Net: NetName=SIM2 Pin=R2-2
+Added Pin To Net: NetName=SIM2 Pin=VT3-1
+Added Net: Name=SIM2
+Added Pin To Net: NetName=SIM Pin=R1-2
+Added Pin To Net: NetName=SIM Pin=VT1-1
+Added Net: Name=SIM
+Added Member To Class: ClassName=Sheet1 Member=Component R1 чип 0603 1k 5%
+Added Member To Class: ClassName=Sheet1 Member=Component R2 чип 0603 1k 5%
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 MMUN2211LT1G (SOT-23)

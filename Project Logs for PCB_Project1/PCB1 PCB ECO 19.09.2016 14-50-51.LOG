@@ -1,0 +1,9 @@
+Added Component: Designator=R1(RESC1608X45(0603))
+Added Component: Designator=R1(RESC1608X45(0603))
+Added Pin To Net: NetName=SIM2 Pin=R1-2
+Added Pin To Net: NetName=SIM2 Pin=VT3-1
+Added Net: Name=SIM2
+Added Pin To Net: NetName=SIM Pin=R1-2
+Added Pin To Net: NetName=SIM Pin=VT1-1
+Added Net: Name=SIM
+Added Member To Class: ClassName=Sheet1 Member=Component R1 чип 0603 1k 5%

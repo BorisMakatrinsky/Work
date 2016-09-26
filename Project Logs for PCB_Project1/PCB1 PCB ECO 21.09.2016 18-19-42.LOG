@@ -1,0 +1,16 @@
+Added Component: Designator=R1(RESC1608X45(0603))
+Added Component: Designator=R2(RESC1608X45(0603))
+Added Component: Designator=VD2(LED_LTL1CHKGKNN)
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=GPO Pin=R2-2
+Added Pin To Net: NetName=GND Pin=VD1-C
+Added Pin To Net: NetName=GND Pin=VD2-C
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD1-A
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VD2-A
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 чип 0603 1K 5%
+Added Member To Class: ClassName=Sheet1 Member=Component R2 чип 0603 1K 5%
+Added Member To Class: ClassName=Sheet1 Member=Component VD2 LTL1CHKGKNN (TH_D3)

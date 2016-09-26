@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC Pin=VT1-3
+Removed Pin From Net: NetName=GND Pin=VT3-2
+Removed Pin From Net: NetName=VCC Pin=VT3-3
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=VT3
+Added Component: Designator=XS3(305-021-11)
+Added Component: Designator=XS4(305-021-11)
+Added Component: Designator=XS5(305-021-11)
+Added Component: Designator=XS6(305-021-11)
+Added Pin To Net: NetName=GND Pin=XC1-1
+Added Pin To Net: NetName=VCC Pin=XC1-2
+Added Pin To Net: NetName=GND Pin=XS4-1
+Added Pin To Net: NetName=GND Pin=XS6-1
+Added Pin To Net: NetName=VCC Pin=XS6-2
+Added Pin To Net: NetName=485A Pin=XC1-5
+Added Pin To Net: NetName=485A Pin=XS5-2
+Added Net: Name=485A
+Added Pin To Net: NetName=485B Pin=XC1-4
+Added Net: Name=485B
+Added Pin To Net: NetName=GPO Pin=VT1-1
+Added Pin To Net: NetName=GPO Pin=XS3-1
+Added Net: Name=GPO
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 Degson 305-021-11
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 Degson 305-021-11
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 Degson 305-021-11
+Added Member To Class: ClassName=Sheet1 Member=Component XS6 Degson 305-021-11

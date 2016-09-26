@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=XS6-1
+Removed Pin From Net: NetName=GND Pin=XS6-2
+Removed Pin From Net: NetName=485B Pin=XS7-1
+Removed Pin From Net: NetName=485A Pin=XS7-2
+Added Pin To Net: NetName=GND Pin=XS6-1
+Added Pin To Net: NetName=VCC Pin=XS6-2
+Added Pin To Net: NetName=485A Pin=XS7-1

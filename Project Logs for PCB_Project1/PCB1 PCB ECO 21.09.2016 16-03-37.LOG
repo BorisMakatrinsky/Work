@@ -1,0 +1,4 @@
+Added Component: Designator=XS7(305-021-11)
+Added Pin To Net: NetName=485B Pin=XS7-1
+Added Pin To Net: NetName=485A Pin=XS7-2
+Added Member To Class: ClassName=Sheet1 Member=Component XS7 Degson 305-021-11

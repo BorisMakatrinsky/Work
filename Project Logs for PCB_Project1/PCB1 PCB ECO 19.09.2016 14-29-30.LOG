@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=VT? NewDesignator=VT3
+Added Pin To Net: NetName=VCC Pin=VT1-3
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 MMUN2211LT1G (SOT-23)
+Added Room: Name=Sheet1
