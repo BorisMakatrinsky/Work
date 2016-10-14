@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Test board TG21.A_B.PcbDoc   13.10.2016  17:32:52
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Test board TG21.A_B-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.9652mm (38mil)         Round          4                13.38 mm (0.53 Inch)
+T2        1mm (39.37mil)           Round          8                94.54 mm (3.72 Inch)
+T3        1.4mm (55.118mil)        Round          6                25.00 mm (0.98 Inch)
+T4        2.5mm (98.425mil)        Round          4                184.41 mm (7.26 Inch)
+---------------------------------------------------------------------------
+Totals                                            22               317.34 mm (12.49 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
